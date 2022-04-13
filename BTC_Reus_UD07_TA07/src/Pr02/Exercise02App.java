@@ -3,7 +3,7 @@ package Pr02;
 /**
  * 
  * @author joseporiollopezbosch
- * BTC_Reus_UD06_TA06
+ * BTC_Reus_UD07_TA07
  * Exercise02 - Flujo de ventas
  */
 

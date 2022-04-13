@@ -8,7 +8,7 @@ import java.util.Hashtable;
 /**
  * 
  * @author joseporiollopezbosch
- * BTC_Reus_UD06_TA06
+ * BTC_Reus_UD07_TA07
  * Exercise04 - Combinación del ejercicio 02 y 03
  */
 
